@@ -5,32 +5,32 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using MyShop.Domain.Models;
 using MyShop.Infrastructure;
+using MyShop.Infrastructure.Repositories;
 using MyShop.Web.Models;
 
 namespace MyShop.Web.Controllers
 {
     public class OrderController : Controller
     {
-        private ShoppingContext context;
+        private readonly IRepository<Order> orderRepository;
+        private readonly IRepository<Product> productRepository;
 
-        public OrderController()
+        public OrderController(IRepository<Order> orderRepository, IRepository<Product> productRepository)
         {
-            context = new ShoppingContext();
+            this.orderRepository = orderRepository;
+            this.productRepository = productRepository;
         }
 
         public IActionResult Index()
         {
-            var orders = context.Orders
-                .Include(order => order.LineItems)
-                .ThenInclude(lineItem => lineItem.Product)
-                .Where(order => order.OrderDate > DateTime.UtcNow.AddDays(-1)).ToList();
+            var orders = orderRepository.Find(order => order.OrderDate > DateTime.UtcNow.AddDays(-1));
 
             return View(orders);
         }
 
         public IActionResult Create()
         {
-            var products = context.Products.ToList();
+            var products = productRepository.All();
 
             return View(products);
         }
@@ -60,9 +60,9 @@ namespace MyShop.Web.Controllers
                 Customer = customer
             };
 
-            context.Orders.Add(order);
+            orderRepository.Add(order);
 
-            context.SaveChanges();
+            orderRepository.SaveChanges();
 
             return Ok("Order Created");
         }

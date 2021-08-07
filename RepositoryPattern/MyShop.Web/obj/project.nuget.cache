@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/blLlmhmxjCPsmTIpoWJGqkeKAskH+khRjyVhfyF9MWVMVwF7Dnx/ssEQpU1zh3VRwRqfozWM9Yh2pZRZshAKg==",
+  "dgSpecHash": "YGlD+g2AyklAEH+7qRSXrInN5nb1ZjuHcPX/riP3IvivW0KKl8tIpJAkhs2dRzYPXcAIANLuHyBAksP33R2Upw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sergei Kulishov\\Downloads\\c-sharp-design-patterns-data-access-patterns\\02\\demos\\Start_Here\\MyShop.Web\\MyShop.Web.csproj",
+  "projectFilePath": "C:\\Users\\Sergei Kulishov\\Documents\\GitHub\\data-access-patterns\\RepositoryPattern\\MyShop.Web\\MyShop.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sergei Kulishov\\.nuget\\packages\\castle.core\\4.2.1\\castle.core.4.2.1.nupkg.sha512",
     "C:\\Users\\Sergei Kulishov\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",

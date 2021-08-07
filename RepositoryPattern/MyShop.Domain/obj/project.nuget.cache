@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yN6EpcbLbPOXr3JF9fst0LQWIsXlMLRcRV+xrrerEgF0M1epBUdd/48TvVThjXwHf1lkXd4brTNwhpebCs4bxA==",
+  "dgSpecHash": "xamSYuo7hJsO0WncIMgz3YCVwa+5Zh4Yqrli9+iLoDXhITa+2eDw9WT/OMKKzahm5E3EDoZLAzNfsx/VUjLxeg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sergei Kulishov\\Downloads\\c-sharp-design-patterns-data-access-patterns\\02\\demos\\Start_Here\\MyShop.Domain\\MyShop.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Sergei Kulishov\\Documents\\GitHub\\data-access-patterns\\RepositoryPattern\\MyShop.Domain\\MyShop.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sergei Kulishov\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Sergei Kulishov\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

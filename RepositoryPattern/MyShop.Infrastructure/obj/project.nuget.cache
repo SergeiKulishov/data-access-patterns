@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fTGbjB/vAMDYFazQh3OzRA57pCX0UqyWdN0HuGaEjFuZLFU16qd3+h9LUR/YrPpYqtZdMMfUwMo+TKj3wOf4pQ==",
+  "dgSpecHash": "OQ0NigauQvUjDc1y0FLqqFJmA/wuwHfQUSAnyQJ3fy/cG0OiW6MBq+0I+MQzo2/2vsDZznxCf+feOldh1YUivA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sergei Kulishov\\Downloads\\c-sharp-design-patterns-data-access-patterns\\02\\demos\\Start_Here\\MyShop.Infrastructure\\MyShop.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Sergei Kulishov\\Documents\\GitHub\\data-access-patterns\\RepositoryPattern\\MyShop.Infrastructure\\MyShop.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sergei Kulishov\\.nuget\\packages\\castle.core\\4.2.1\\castle.core.4.2.1.nupkg.sha512",
     "C:\\Users\\Sergei Kulishov\\.nuget\\packages\\microsoft.data.sqlite.core\\2.1.0\\microsoft.data.sqlite.core.2.1.0.nupkg.sha512",

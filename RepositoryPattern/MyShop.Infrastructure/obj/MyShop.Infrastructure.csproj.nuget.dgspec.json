@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sergei Kulishov\\Downloads\\c-sharp-design-patterns-data-access-patterns\\02\\demos\\Start_Here\\MyShop.Infrastructure\\MyShop.Infrastructure.csproj": {}
+    "C:\\Users\\Sergei Kulishov\\Documents\\GitHub\\data-access-patterns\\RepositoryPattern\\MyShop.Infrastructure\\MyShop.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sergei Kulishov\\Downloads\\c-sharp-design-patterns-data-access-patterns\\02\\demos\\Start_Here\\MyShop.Domain\\MyShop.Domain.csproj": {
+    "C:\\Users\\Sergei Kulishov\\Documents\\GitHub\\data-access-patterns\\RepositoryPattern\\MyShop.Domain\\MyShop.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sergei Kulishov\\Downloads\\c-sharp-design-patterns-data-access-patterns\\02\\demos\\Start_Here\\MyShop.Domain\\MyShop.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Sergei Kulishov\\Documents\\GitHub\\data-access-patterns\\RepositoryPattern\\MyShop.Domain\\MyShop.Domain.csproj",
         "projectName": "MyShop.Domain",
-        "projectPath": "C:\\Users\\Sergei Kulishov\\Downloads\\c-sharp-design-patterns-data-access-patterns\\02\\demos\\Start_Here\\MyShop.Domain\\MyShop.Domain.csproj",
+        "projectPath": "C:\\Users\\Sergei Kulishov\\Documents\\GitHub\\data-access-patterns\\RepositoryPattern\\MyShop.Domain\\MyShop.Domain.csproj",
         "packagesPath": "C:\\Users\\Sergei Kulishov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sergei Kulishov\\Downloads\\c-sharp-design-patterns-data-access-patterns\\02\\demos\\Start_Here\\MyShop.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Sergei Kulishov\\Documents\\GitHub\\data-access-patterns\\RepositoryPattern\\MyShop.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sergei Kulishov\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Users\\Sergei Kulishov\\Downloads\\c-sharp-design-patterns-data-access-patterns\\02\\demos\\Start_Here\\MyShop.Infrastructure\\MyShop.Infrastructure.csproj": {
+    "C:\\Users\\Sergei Kulishov\\Documents\\GitHub\\data-access-patterns\\RepositoryPattern\\MyShop.Infrastructure\\MyShop.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sergei Kulishov\\Downloads\\c-sharp-design-patterns-data-access-patterns\\02\\demos\\Start_Here\\MyShop.Infrastructure\\MyShop.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Sergei Kulishov\\Documents\\GitHub\\data-access-patterns\\RepositoryPattern\\MyShop.Infrastructure\\MyShop.Infrastructure.csproj",
         "projectName": "MyShop.Infrastructure",
-        "projectPath": "C:\\Users\\Sergei Kulishov\\Downloads\\c-sharp-design-patterns-data-access-patterns\\02\\demos\\Start_Here\\MyShop.Infrastructure\\MyShop.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Sergei Kulishov\\Documents\\GitHub\\data-access-patterns\\RepositoryPattern\\MyShop.Infrastructure\\MyShop.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Sergei Kulishov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sergei Kulishov\\Downloads\\c-sharp-design-patterns-data-access-patterns\\02\\demos\\Start_Here\\MyShop.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Sergei Kulishov\\Documents\\GitHub\\data-access-patterns\\RepositoryPattern\\MyShop.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sergei Kulishov\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -85,8 +85,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Sergei Kulishov\\Downloads\\c-sharp-design-patterns-data-access-patterns\\02\\demos\\Start_Here\\MyShop.Domain\\MyShop.Domain.csproj": {
-                "projectPath": "C:\\Users\\Sergei Kulishov\\Downloads\\c-sharp-design-patterns-data-access-patterns\\02\\demos\\Start_Here\\MyShop.Domain\\MyShop.Domain.csproj"
+              "C:\\Users\\Sergei Kulishov\\Documents\\GitHub\\data-access-patterns\\RepositoryPattern\\MyShop.Domain\\MyShop.Domain.csproj": {
+                "projectPath": "C:\\Users\\Sergei Kulishov\\Documents\\GitHub\\data-access-patterns\\RepositoryPattern\\MyShop.Domain\\MyShop.Domain.csproj"
               }
             }
           }
